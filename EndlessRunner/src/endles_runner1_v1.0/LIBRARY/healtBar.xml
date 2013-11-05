@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="healtBar" itemID="519b28a8-00000017" linkageExportForAS="true" linkageClassName="healtBarArt" lastModified="1369123977">
+  <timeline>
+    <DOMTimeline name="healtBar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="0.491729736328125" d="0.493179321289063" ty="-3.3"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#00FFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2847 -125S6|2847 125!2847 125|0 125!0 125|0 -125!0 -125|2847 -125"/>
+                    <Edge cubics="!0 125(;0,125 0,-125 0,-125q0 125 0 -125);"/>
+                    <Edge cubics="!2847 -125(;2847,-125 2847,125 2847,125q2847 -125 2847 125);"/>
+                    <Edge cubics="!2847 125(;2847,125 0,125 0,125q2847 125 0 125);"/>
+                    <Edge cubics="!0 -125(;0,-125 2847,-125 2847,-125q0 -125 2847 -125);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

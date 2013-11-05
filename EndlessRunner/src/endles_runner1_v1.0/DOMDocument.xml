@@ -1,0 +1,55 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="1280" height="720" frameRate="60" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="100.925968316201" nextSceneIdentifier="21" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <symbols>
+          <Include href="asreroidPart.xml" itemID="51a5f342-00000018" lastModified="1369861424"/>
+          <Include href="bigEnemie.xml" itemID="5190da0d-000001d6" lastModified="1368447663"/>
+          <Include href="bullet.xml" itemID="51949aac-000001dd" lastModified="1369223885"/>
+          <Include href="healtBar.xml" itemID="519b28a8-00000017" lastModified="1369123977"/>
+          <Include href="mediumEnemie.xml" itemID="51955fbf-00000204" lastModified="1368743946"/>
+          <Include href="Player.xml" itemID="518cfdb8-000001d5" lastModified="1368372120"/>
+          <Include href="smalEnemie.xml" itemID="518fb20f-000001d5" lastModified="1368372657"/>
+          <Include href="Star.xml" itemID="518e6a57-000001d4" lastModified="1368301830"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 2" color="#9933CC">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="3104" publishTime="1369830349"/>
+          <PublishItem publishSize="465206" publishTime="1369388211"/>
+          <PublishItem publishSize="465202" publishTime="1369388201"/>
+          <PublishItem publishSize="465206" publishTime="1369388192"/>
+          <PublishItem publishSize="465255" publishTime="1369388170"/>
+          <PublishItem publishSize="2879" publishTime="1369123942"/>
+          <PublishItem publishSize="2881" publishTime="1369123910"/>
+          <PublishItem publishSize="3097" publishTime="1369123022"/>
+          <PublishItem publishSize="274017" publishTime="1368743880"/>
+          <PublishItem publishSize="1464" publishTime="1368743579"/>
+          <PublishItem publishSize="1464" publishTime="1368743336"/>
+          <PublishItem publishSize="1464" publishTime="1368697835"/>
+          <PublishItem publishSize="3050" publishTime="1368696841"/>
+          <PublishItem publishSize="3394" publishTime="1368696747"/>
+          <PublishItem publishSize="3391" publishTime="1368696697"/>
+          <PublishItem publishSize="3049" publishTime="1368696304"/>
+          <PublishItem publishSize="3049" publishTime="1368696266"/>
+          <PublishItem publishSize="2672" publishTime="1368695828"/>
+          <PublishItem publishSize="2552" publishTime="1368448193"/>
+          <PublishItem publishSize="2976" publishTime="1368372305"/>
+     </publishHistory>
+</DOMDocument>

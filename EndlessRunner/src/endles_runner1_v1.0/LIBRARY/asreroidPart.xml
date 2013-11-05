@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="asreroidPart" itemID="51a5f342-00000018" linkageExportForAS="true" linkageClassName="asreroidPartArt" lastModified="1369861424">
+  <timeline>
+    <DOMTimeline name="asreroidPart">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.0318603515625" d="0.0318603515625" tx="-4.55" ty="-0.45"/>
+                        </matrix>
+                        <GradientEntry color="#00665D" ratio="0"/>
+                        <GradientEntry color="#4C4C4C" ratio="0.717647058823529"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!390 -9[390 72 346 107!346 107[279 147 232 193!232 193[233 235 230 280!230 280[225 369 188 406!188 406[133 461 63 470!63 470[56 471 -90 471!-90 471[-167 471 -235 335!-235 335[-325 155 -351 129!-351 129[-390 90 -497 75!-497 75[-573 64
+ -573 -9!-573 -9[-573 -139 -506 -251!-506 -251[-495 -270 -395 -312!-395 -312[-291 -357 -278 -371!-278 -371[-231 -417 -199 -465!-199 -465[-173 -489 -90 -489!-90 -489[-10 -489 55 -406!55 -406[123 -299 169 -253!169 -253[216 -206 315 -146
+!315 -146[390 -89 390 -9"/>
+                    <Edge cubics="!-90 -489(;43,-489 76,-346 169,-253q-90 -489Q-10 -489q55 -406Q123 -299q169 -253);"/>
+                    <Edge cubics="!188 406(;104,490 32,471 -90,471q188 406Q133 461q63 470Q56 471q-90 471);"/>
+                    <Edge cubics="!232 193(;225,200 248,346 188,406q232 193Q233 235q230 280Q225 369q188 406);"/>
+                    <Edge cubics="!390 -9(;390,124 326,100 232,193q390 -9Q390 72q346 107Q279 147q232 193);"/>
+                    <Edge cubics="!169 -253(;263,-159 390,-142 390,-9q169 -253Q216 -206q315 -146Q390 -89q390 -9);"/>
+                    <Edge cubics="!-506 -251(;-485,-286 -308,-340 -278,-371q-506 -251Q-495 -270q-395 -312Q-291 -357q-278 -371);"/>
+                    <Edge cubics="!-351 129(;-444,36 -573,124 -573,-9q-351 129Q-390 90q-497 75Q-573 64q-573 -9);"/>
+                    <Edge cubics="!-573 -9(;-573,-98 -549,-179 -506,-251q-573 -9Q-573 -139q-506 -251);"/>
+                    <Edge cubics="!-90 471(;-223,471 -257,223 -351,129q-90 471Q-167 471q-235 335Q-325 155q-351 129);"/>
+                    <Edge cubics="!-278 -371(;-184,-464 -223,-489 -90,-489q-278 -371Q-231 -417q-199 -465Q-173 -489q-90 -489);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
