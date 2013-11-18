@@ -43,7 +43,7 @@ package
 		public 	var 	_forest:Sound = new forest();
 		public  var scoretext:TextField = new TextField;
 		public  var lifefield:TextField = new TextField;
-		public var score = new int;
+		public var score:int = new int;
 		public var scoretimer:Timer;
 		private var 	tower				:towerbayumMC    	= new towerbayumMC();
 		private	var	    _loseScreen			:LoseScreen			= new LoseScreen();
