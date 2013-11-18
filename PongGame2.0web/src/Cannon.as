@@ -7,6 +7,8 @@ package
 	import flash.events.KeyboardEvent;
 	import flash.events.Event;
 	import flash.media.Sound;
+	import flash.text.TextField;
+	import flash.text.TextFormat;
 	import flash.utils.Timer;
 	import flash.events.TimerEvent;
 	
@@ -39,7 +41,10 @@ package
 				[Embed(source="../lib/sfx_ambient_forest_01.mp3")]
 		public  var     forest:Class;
 		public 	var 	_forest:Sound = new forest();
-		
+		public  var scoretext:TextField = new TextField;
+		public  var lifefield:TextField = new TextField;
+		public var score = new int;
+		public var scoretimer:Timer;
 		private var 	tower				:towerbayumMC    	= new towerbayumMC();
 		private	var	    _loseScreen			:LoseScreen			= new LoseScreen();
 		public  var 	ballTimer			:Timer;
@@ -49,14 +54,18 @@ package
         public  var     player              :Player     		= new Player();
 		public 	var 	cannon				:CannonMC 			= new CannonMC();
 		private var 	ncb 				:Class		 		= CannonBall;
+		 private var textfont:TextFormat = new TextFormat();
 		
 		public static const DEAD			:String				= "dead";
 		
 		public function Cannon() 
 		{
-
+					textfont.size = 20;
 			_forest.play();
 			addEventListener(Event.ENTER_FRAME, loop);
+			   scoretimer = new Timer( 1000 , 0);
+			 scoretimer.addEventListener(TimerEvent.TIMER, TellScore);
+			 scoretimer.start();
 			ballTimer = new Timer(1000, 0);
 			ballTimer.addEventListener	(TimerEvent.TIMER, 		shootingBallz);
 			player.x    =   50;
@@ -64,15 +73,19 @@ package
 			cannon.y 	= 	500;
 			lifes       =   5;
 			tower.y     =   70;
-
+			lifefield.x =   200;
+			addChild(scoretext);
 			addChild(tower);
-
+			addChild(lifefield);
 			addChild(cannon);
 			addChild(player);
 		}
 		
 		private function loop(e:Event):void 
 		{
+	
+			scoretext.text = "score = " + score;
+			lifefield.text = "lifes = " + lifes;
 			for each(var a:MovieClip in _allCannonBalls) {
 				a.x 	-= 		10;
 				a.y 	-= 		numberY 	*	8;
@@ -104,6 +117,8 @@ package
 				remove(tower);
 				ballTimer.stop();
 				addChild(_loseScreen);
+				addChild(scoretext);
+				scoretimer.stop();
 			}
 		}
 		private function shootingBallz(e:Event):void 
@@ -126,6 +141,15 @@ package
 				child = null;
 			}
 		}
+		
+		  private function TellScore(e:Event) :void
+		 {
+		   score ++;
+						 scoretext.defaultTextFormat = textfont;
+						 lifefield.defaultTextFormat = textfont;
+						 lifefield.textColor = 0xFF0000;
+						 
+		 }
 		
 		
 	}
