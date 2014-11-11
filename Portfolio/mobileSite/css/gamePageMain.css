@@ -1,0 +1,91 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(http://fonts.googleapis.com/css?family=Numans);
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Eras Demi ITC;
+	background: 0#B5E5E0;
+}
+/* --------------------- header picture --------------------- */
+.GameImage{
+	padding-top: 9vw;
+}
+.game{
+	width: 100vw;
+}
+/* --------------------- usefull info --------------------- */
+.gameInfo, .teamInfo{
+	float: center;
+
+	padding-top: 1.8vh;
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 80vw;
+    height: 100%;
+}
+.questions, .artist{
+	width: 40vw;
+	float: left;
+	position: relative;
+}
+.answers, .developers{
+	width: 40vw;
+	float:right;
+	position: relative;
+}
+/* --------------------- Bottom footer --------------------- */
+.mobileVid{
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+	width: 100vw;
+	position: relative;
+}
+
+/* --------------------- Bottom footer --------------------- */
+.footer{
+	text-align: center;
+	padding-bottom: 2vh;
+	position: relative;
+}
+
+/* --------------------- Links clicked hovered active and other things with links --------------------- */
+.a{
+}
+
+a:link {color:#000;}
+a:visited {color: #000;}
+a:hover {color:#000;}
+a:active {color:#222;}
+
+/* --------------------- edit all text --------------------- */
+h1 {
+	font-family:Trebuchet MS;
+	font-size: 8vw;
+	margin-top: -3px;
+	font-weight:bold;
+	text-align: center;
+}
+h2 {
+	font-family:Trebuchet MS;
+	margin: 0;
+	padding: 0;
+	font-size: 6vw;
+	font-weight:bold;
+}
+h3 {
+	font-family:Trebuchet MS;
+	margin: 0;
+	padding: 0;
+	font-size: 4vw;
+	font-weight:bold;
+}
+p{
+	font-family:Trebuchet MS;
+	margin: 0;
+	padding: 0;
+	font-size: 4vw;
+}

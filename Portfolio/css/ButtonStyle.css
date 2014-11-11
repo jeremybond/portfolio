@@ -1,0 +1,63 @@
+@charset "utf-8";
+div.navBarCont a{
+	display:block;
+	text-decoration:none;
+	text-align: left;
+	font-family:Trebuchet MS;
+	font-size: 1.5vw;
+	font-weight:bold;
+	height:200%;
+	line-height:120%;
+	background: 0#B5E5E0;
+	text-indent: 6.5vw;
+	margin-left:  -25px;
+	
+}
+div.navBarCont a:link{
+	right: 10px;
+}
+div.navBarCont a:active{
+	position: relative;
+	right: 10px;
+}
+div.navBarCont a:hover{
+	position: relative;
+	right: 20px;
+}
+div.navBarContLinks {
+	padding-top: 20px;
+}
+
+
+ul.urlLinks a{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 1.5vw;
+	font-weight:bold;
+	height:200%;
+	line-height:120%;
+	background: 0#B5E5E0;
+	margin-left:  -40px;
+	width:30%;
+}
+ul.urlLinks a:link{
+	right: 20px;
+}
+ul.urlLinks a:active{
+	position: relative;
+	right: 20px;
+}
+ul.urlLinks a:hover{
+	position: relative;
+	right: 30px;
+}
+
+
+a.ButtonStyleTop{
+	padding-top: 10px;
+}
+a.ButtonStyleBottom{
+	padding-bottom: 10px;
+}

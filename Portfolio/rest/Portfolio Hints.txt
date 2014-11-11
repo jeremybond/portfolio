@@ -1,0 +1,71 @@
+I look at game artists’ portfolios on a regular basis. These websites are usually designed so poorly that I close my browser out of disgust. They’re even bad enough to turn away potential employers, regardless of the quality of the artwork. Tragic!
+
+Most artists make mistakes like these, but fortunately, they’re very simple to understand and correct. I’ve come up with a quick and easy way to help artists think about how to improve their chances of employment by building a better website.
+
+The core truth here is this:
+
+Usability is just as important as content.
+
+A portfolio website should be a simple, effective, uncluttered experience from start to finish that leaves a lasting impression on the visitor. An incredible number of websites fail to do this. And it’s always for silly, completely avoidable reasons.
+
+Your website should be focused on one purpose, be easy to use, and offer a clear line of action. Here are three simple questions to ask yourself:
+
+1) What’s my website’s focus?
+
+Your website exists to get you a job. Its only purpose is to showcase your art and present your contact information for potential employers. You should make your art and contact information so fantastically easy to see that someone find it accidentally. If someone wants to talk to you about a job, don’t be hard to find.
+
+Include your name and contact information at the top of every page of your site.
+
+For example, any visitor should understand clearly that you are an environment artist and you intend to get a job as an environment artist. Anything else is confusing. Silly MS Paint drawings, photos from trips you’ve taken or a blog about your daily life have nothing to do with that, and should be removed. These things are not added value. A portfolio is not a personality test! That’s what an interview is for.
+
+The second common mistake is making a website that’s difficult to navigate. So ask yourself this:
+
+2) Is my website easy to use?
+
+You might be thinking “but I’m an artist, not a web designer!” This is a poor but common excuse for making a bad website. On the other side of the coin, many artists that are web designers make their website so flamboyantly artsy that it’s practically impossible to use.
+
+The first thing a visitor should see on your website is your art. First impressions are formed in an instant. Attention spans can be shut off in an instant. Your top priority should be to make that first instant be compelling enough to keep the viewer looking and to give them what they’re looking for. Don’t tease… satisfy.
+
+After all, did I go to your website to look at a splash page, or art? The faster I can see your content, the better.
+
+Forget splash pages and news pages or any other starting page that isn’t putting art directly in my face.
+
+Your portfolio’s highest purpose is to show off your art quickly, easily, and with the minimum of hassle. A good portfolio should be so easy to navigate that someone could view your work accidentally.
+
+Anything that doesn’t support that basic goal breaks your focus and should be removed or relocated. Make another website for your personal stuff if you have to, but keep your portfolio clean and relevant. More isn’t better.
+
+If it doesn’t help show your art faster or sell you as an artist, it shouldn’t be there.
+
+Here’s a quick list of aggravating features that are common in portfolio websites:
+
+No image branding - Every image on the entire website should have your name, email address and website URL on it. People save images off of portfolios and forget where they got them. If one of your pieces of art finds its way to a studio, how will they find you? Make each image stand on its own, removed from context.
+Vague thumbnails - A thumbnail exists to offer a relevant preview of a larger image. Yet I see thumbnails of random parts of a model that give me no indication of what I’m about to see. If I’m looking for medieval characters, how does a grainy thumbnail of the bottom of his foot help me find it?
+Multiple layers - It’s as if bad portfolios follow a common navigation pattern:
+Splash page -> News page -> Portfolio page -> 3D Art -> Characters -> Man with Axe thumbnail -> Man with Axe enlarged.
+
+Do you expect me not to hate clicking through seven pages just to see your art? Flatten your site. Put the art in my face and show me the quickest, simplest possible way of navigating. One page full of art is better than any of the multiple layers shown above.
+
+Multiple popups - A splash page shouldn’t even exist, much less stay open when you click on it to enter the website. Neither should a thumbnail opening an image in a new window that I have to manually close. I’ve been to websites that open as many as FIVE WINDOWS. That’s inconvenient, wasteful, and downright hostile toward the visitor. Be a courteous host.
+Poor navigation - Every page should offer buttons to go to the next image, to the previous image, and to return to the main page. They don’t pop up new windows unless it’s for an enlarged image, which should be extremely easy to close to return to the thumbnails. It’s convenient, it’s considerate, and it’s easy to implement. It also encourages them to keep looking forward at more art instead of accidentally closing your site altogether. Keep guiding them along a path.
+Small images - Small images convey nothing. Keep it large enough to be easily seen and understood. Also keep in mind that the average screen resolution is usually around 1024×768, so make it reasonable from that standpoint. Also, remove as much dead space as possible. Nothing irritates me more than loading an enormous image that you only used ten percent of.
+Bad lighting - Why would I hire you if your work is so badly lit for me that I can’t even see it?
+Obscure web plugins - Don’t make someone download a plugin to view your website. This will ruffle some feathers but I find Flash websites to be obnoxious and unnecessary, and most aren’t worth the time to navigate. There are a lot of people that don’t even have Flash. Do you want to risk losing a great job opportunity over that? Just keep it as simple as possible, but no simpler.
+Hiring managers look through dozens of portfolios every day. All the portfolios they see blend together. It’s just a job. You are either on the “Portfolios To Review” list, or you’re not. A poorly designed website makes this poor hiring manager’s job a little more annoying. Accordingly, he is less likely to invest the time into looking at your entire portfolio. And he certainly won’t read your blog. Is he hiring a Metallica fan or a level designer?
+
+Imagine that your target visitor is a tired, indifferent hiring manager whose only desire is to find the shortest path possible to looking at your art. Nothing else matters. So design your website for him. Give him what he wants. Remove what he doesn’t care about. The clearer your message, the better.
+
+For example: “I am Phineas Fogbottom, environment artist. This is my art. Email me at mastapimp420@yahoo.com”
+
+That’s all he needs to know. Keep it simple.
+
+3) Do I provide a clear line of action?
+
+This is also important. Sadly, good art doesn’t sell itself. It’s one thing to present art, and it’s quite another to funnel them toward offering you a job. First you serve up the art, and then you show them that they should offer you a job, and here’s how to contact you. The easier this is, the better.
+
+Here are two huge mistakes people often make along these lines:
+
+No stated desired position - The desired position usually isn’t obvious. Most artists feel the need to put all their 2D art, 3D art, animation, illustration, paintings and even poetry on their website. That makes it impossible to divine what kind of position you’re looking for! Be specific. Companies do not set out to hire generalists, they hire specialists. (Whether or not they ultimately USE them as specialists is another matter entirely.)
+If they’re hiring a character artist, seeing you say “I do everything!” isn’t going to make them think of you for the job. It’s easy: Be the guy they’re looking for by being specific. If they’re looking for a character artist, the more ways you can match the pattern they’re looking for, the better. A good place to start is by saying “Hey, I’m a character artist.” :)
+
+No contact information - If I like your work, how am I supposed to contact you? Keep it visible at all times and don’t make them hunt for it. If you’re concerned about spambots farming your favorite email address to add to spam lists, make a new email address solely for job solicitations and just deal with the spam.
+That’s all there is to it, really. It’s simple enough if you think about it, but that’s the problem: Most people don’t. If you start thinking about it, you’re already ahead of the game!

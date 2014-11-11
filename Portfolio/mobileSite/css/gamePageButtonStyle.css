@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+/* upset for navigation bar buttons */
+div.buttons a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 5vw;
+	font-weight:bold;
+	line-height:120%;
+	background: 0#F0F0F0;
+	width:100%;
+	right: 0px;
+	
+}
+div.buttons a:active{
+	position: relative;
+	right: 0px;
+} 
+div.buttons a:hover{
+	position: relative;
+	right: 5vw;
+}
+
+/* upset for standard buttons */
+ul.urlLinks a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 1.5vw;
+	font-weight:bold;
+	height:200%;
+	line-height:120%;
+	background: 0#F0F0F0;
+	margin-left:  -25px;
+	width:30%;
+	right: 0px;
+
+}
+ul.urlLinks a:active{
+	position: relative;
+	right: 0px;
+}
+ul.urlLinks a:hover{
+	position: relative;
+	right: 5vw;
+}
+/* upset for up button */
+div.upButton a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 5vw;
+	font-weight:bold;
+	line-height:120%;
+	background: 0#F0F0F0;
+	width:50%;
+	position: fixed;
+	right: 0px;
+	float: left;
+}
+div.upButton a:active {
+	position: fixed;
+	right: 0px;
+}
+div.upButton a:hover {
+	position: fixed;
+	right: 5vw;
+}
+/* upset for back button */
+div.backButton a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 5vw;
+	font-weight:bold;
+	line-height:120%;
+	background: 0#F0F0F0;
+	width:50%;
+	position: fixed;
+	left: 0px;
+	float:left;
+}
+div.backButton a:active {
+	position: fixed;
+	left: 0px;
+}
+div.backButton a:hover {
+	position: fixed;
+	left: 5vw;
+}
+/* some buttons paddings to make the buttons at the top and bottom look bigger tip from berend */
+a.buttonStyleTop{
+	padding-top: 1vh;
+}
+a.buttonStyleBottom{
+	padding-bottom: 1vh;
+}
+a.buttonStyleBoth{
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}

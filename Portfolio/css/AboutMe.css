@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/* --------------------- edit specific bloks --------------------- */
+.first_text_blok{
+	width: 70%;
+	margin-left: 5%;
+}
+.second_text_blok{
+	width: 70%;
+	margin-left: 25%;
+}
+.thirth_text_blok{
+	margin-left: 5%;
+	width: 88%;
+}
+.FirstImage{
+	position: fixed;
+	margin-left: 800px;
+}
+.SecondImage{
+	position: fixed;
+	margin-left: 50px;
+	margin-top: 200px;
+}

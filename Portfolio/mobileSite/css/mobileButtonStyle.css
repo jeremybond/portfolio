@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+/* upset for navigation bar buttons */
+div.nav_bar_cont a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 5vw;
+	font-weight:bold;
+	line-height:120%;
+	background: 0#F0F0F0;
+	width:100%;
+	right: 0px;
+	
+}
+div.nav_bar_cont a:active{
+	position: relative;
+	right: 0px;
+} 
+div.nav_bar_cont a:hover{
+	position: relative;
+	right: 30px;
+}
+
+/* upset for standard buttons */
+ul.urlLinks a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 1.5vw;
+	font-weight:bold;
+	height:200%;
+	line-height:120%;
+	background: 0#F0F0F0;
+	margin-left:  -25px;
+	width:30%;
+	right: 0px;
+
+}
+ul.urlLinks a:active{
+	position: relative;
+	right: 0px;
+}
+ul.urlLinks a:hover{
+	position: relative;
+	right: 30px;
+}
+/* upset for up button */
+div.upButton a:link{
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	font-family:Trebuchet MS;
+	font-size: 5vw;
+	font-weight:bold;
+	line-height:120%;
+	background: 0#F0F0F0;
+	width:100%;
+	position: fixed;
+	right: 0px;
+
+}
+div.upButton a:active {
+	position: fixed;
+	right: 0px;
+}
+div.upButton a:hover {
+	position: fixed;
+	right: 30px;
+}
+/* some buttons paddings to make the buttons at the top and bottom look bigger tip from berend */
+a.ButtonStyleTop{
+	padding-top: 10px;
+}
+a.ButtonStyleBottom{
+	padding-bottom: 10px;
+}
+a.ButtonStyleBoth{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
